@@ -101,7 +101,6 @@ My final model consisted of the following layers:
 | RELU					|													|
 | Dropout				| keep probability = 0.7							|
 | Fully connected		| outputs 43 logits  								|
-|						|													|
 
 
 #### 4. Hyper Parameters.
