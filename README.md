@@ -141,14 +141,14 @@ According to me these images have following difficulties in classification
 
 | Image | Difficulty in classification |
 |----------|-----------|
-|<img src="./writeup-images/1.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because background is splitted into two different parts and noisy background|
-|<img src="./writeup-images/2.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because sign is roated and noisy background|
-|<img src="./writeup-images/3.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because noisy background|
-|<img src="./writeup-images/4.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because  background is splitted into two different patterns and noisy background|
-|<img src="./writeup-images/5.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because sign is roated and noisy background|
-|<img src="./writeup-images/6.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because sign is roated and noisy background|
-|<img src="./writeup-images/7.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because noisy background|
-|<img src="./writeup-images/8.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because backgroud is splitted in two parts and noisy|
+|**1** Speed Limit(30km/hr)|Might be difficult to classify because background is splitted into two different parts and noisy background|
+|**2** General Caution|Might be difficult to classify because sign is roated and noisy background|
+|**3** Speed Limit(20km/hr)|Might be difficult to classify because noisy background|
+|**4** Bumpy Road|Might be difficult to classify because  background is splitted into two different patterns and noisy background|
+|**5** Stop Sign|Might be difficult to classify because sign is roated and noisy background|
+|**6** Keep Right|Might be difficult to classify because sign is roated and noisy background|
+|**7** No Entry|Might be difficult to classify because noisy background|
+|**8** Yeild Sign|Might be difficult to classify because backgroud is splitted in two parts and noisy|
 
 
 #### 2. Model's predictions on new traffic signs
