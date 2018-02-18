@@ -137,6 +137,19 @@ Here are eight German traffic signs that I found on the web:
 
 ![alt text](/writeup-images/web_images.png "Web Images")
 
+According to me these images have following difficulties in classification
+
+| Image | Difficulty in classification |
+|----------|-----------|
+|<img src="./writeup-images/1.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because background is splitted into two different parts and noisy background|
+|<img src="./writeup-images/2.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because sign is roated and noisy background|
+|<img src="./writeup-images/3.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because noisy background|
+|<img src="./writeup-images/4.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because  background is splitted into two different patterns and noisy background|
+|<img src="./writeup-images/5.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because sign is roated and noisy background|
+|<img src="./writeup-images/6.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because sign is roated and noisy background|
+|<img src="./writeup-images/7.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because noisy background|
+|<img src="./writeup-images/8.jpg" style = "width: 150px; min-height: 150px; max-height: 150px">|Might be difficult to classify because backgroud is splitted in two parts and noisy|
+
 
 #### 2. Model's predictions on new traffic signs
 
